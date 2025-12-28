@@ -1,4 +1,5 @@
 ﻿//using System;
+//using System.Reflection.PortableExecutable;
 
 //class imc
 //{
@@ -11,13 +12,13 @@
 
 //        Console.Write("Digite seu peso (ex: 84): ");
 //        double p = double.Parse(Console.ReadLine());
-        
+
 //        double resultado = calculo(a, p);
 
 //        Console.WriteLine("Seu IMC é: " + resultado);
 //    }
 //    static double calculo(double a, double p)
-//    { 
+//    {
 
 //        double imc = p / (a * a);
 

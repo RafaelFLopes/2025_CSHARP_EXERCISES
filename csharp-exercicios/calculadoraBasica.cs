@@ -6,7 +6,8 @@
 //    {
 //        int opcao;
 
-//        do{ 
+//        do
+//        {
 //            Console.WriteLine("Selecione a operação desejada:");
 //            Console.WriteLine("1 - Adição");
 //            Console.WriteLine("2 - Subtração");
@@ -46,7 +47,7 @@
 //                    Console.WriteLine("Saindo da calculadora...");
 //                    break;
 //            }
-//        } 
-//        while(opcao != 99);
+//        }
+//        while (opcao != 99);
 //    }
 //}
